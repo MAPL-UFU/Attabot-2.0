@@ -1,0 +1,13 @@
+robot_id;sensor_id;sensor_data;timestamp
+0,CollisionModule,"[False, False, False, False, False, False]",2023-07-22T23:39:20
+0,LeftMotor,"forward",2023-07-22T23:39:20
+0,RightMotor,,2023-07-22T23:39:20
+0,LDRLuminosity,False,2023-07-22T23:39:20
+0,DistanceSensor,"[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]",2023-07-22T23:39:20
+0,AccelerometerGyroscope,"{'eulerX': 0.0, 'eulerY': 0.0, 'eulerZ': 0.0, 'linearAccX': 0.0, 'linearAccY': 0.0, 'linearAccZ': 0.0, 'gyroX': 0.0, 'gyroY': 0.0, 'gyroZ': 0.0}",2023-07-22T23:39:20
+0,CollisionModule,"[False, False, False, False, False, False]",2023-07-22T23:39:21
+0,LeftMotor,"stopped",2023-07-22T23:39:21
+0,RightMotor,"forward",2023-07-22T23:39:21
+0,LDRLuminosity,False,2023-07-22T23:39:21
+0,DistanceSensor,"[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]",2023-07-22T23:39:21
+0,AccelerometerGyroscope,"{'eulerX': 0.0, 'eulerY': 0.0, 'eulerZ': 0.0, 'linearAccX': 0.0, 'linearAccY': 0.0, 'linearAccZ': 0.0, 'gyroX': 0.0, 'gyroY': 0.0, 'gyroZ': 0.0}",2023-07-22T23:39:21
